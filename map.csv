@@ -1,50 +1,43 @@
 Marker Id,Name,Address,Latitude,Longitude,,Group,Start Date,Location,Spots left
-d822fa93-11a8-49fc-ad1b-184adf5af6d3,Simpsonville,"Simpsonville, SC, USA",34.7370639,-82.2542834,,Greenville,5/16/26,TBD,5
-d51ef239-9167-4b77-870d-7b889cb543d7,Greenville,"Greenville, SC, USA",34.8484984,-82.4000158,,Greenville,5/16/26,TBD,5
-d2fa3188-a77f-4e13-81e9-e7d9f84f780a,Mauldin,"Mauldin, SC, USA",34.77873,-82.310119,,Greenville,5/16/26,TBD,5
-35ecf2fc-a863-4ee2-9839-bcd46e0f98cd,Greer,"Greer, SC, USA",34.9387279,-82.2270568,,Greenville,5/16/26,TBD,5
-a910dc6c-2fd0-410b-9395-2b64a1de9cef,Florence,"Florence, SC, USA",34.1973393,-79.7660945,,Florence,5/16/26,TBD,1
-65cb60be-efa2-4e1b-a684-f2417ac6b7d8,Sumter,"Sumter, SC, USA",33.9204354,-80.3414693,,Florence,5/16/26,TBD,1
-6c39a303-3636-4263-9e93-2c1ab3620dde,Temecula,"Temecula, CA, USA",33.4934243,-117.1488156,,Murietta,5/16/26,TBD,3
-1e1cb541-c56d-4b53-a1df-48583181c63f,Perris,"Perris, CA, USA",33.7865768,-117.2261337,,Murietta,5/16/26,TBD,3
-135cede2-b0f3-4602-928f-3ec5d6209458,French Valley,"French Valley, CA, USA",33.6086315,-117.1093599,,Murietta,5/16/26,TBD,3
-95b4898f-b08c-4b84-ad33-e6d353a852be,Murrieta,"Murrieta, CA, USA",33.5612623,-117.2105183,,Murietta,5/16/26,TBD,3
-c07839df-6eb6-40e8-8c3d-d6123991cd70,Menifee,"Menifee, CA, USA",33.6971468,-117.185294,,Murietta,5/16/26,TBD,3
-5e9931a8-8b6c-4c28-aa62-ef7a5a860c13,Hemet,"Hemet, CA, USA",33.7475203,-116.9719684,,Murietta,5/16/26,TBD,3
-1927fe64-20d0-4503-aada-ec07191c7f12,Northridge,"Northridge, Los Angeles, CA, USA",34.2354576,-118.5361381,,Valencia,5/16/26,TBD,4
-be77f175-6673-4225-b336-6acb0cb7d533,Santa Clarita,"Santa Clarita, CA, USA",34.3916641,-118.542586,,Valencia,5/16/26,TBD,4
-c920b9cd-e148-4506-8856-28dc58078585,Chatsworth,"Chatsworth, Los Angeles, CA, USA",34.2572378,-118.5973401,,Valencia,5/16/26,TBD,4
-8b5d75b5-66e8-406f-b6f5-3aabebea4763,Valencia,"Valencia, Santa Clarita, CA, USA",34.419837,-118.5627013,,Valencia,5/16/26,TBD,4
-934cb5d4-dd31-4cfe-b453-d8a508b6819b,San Fernando,"San Fernando, CA, USA",34.2819461,-118.4389719,,Valencia,5/16/26,TBD,4
-f0cefd3e-d61d-480a-ad95-3556ecaa5ce3,Van Nuys,"Van Nuys, Los Angeles, CA, USA",34.2012166,-118.466222,,Valencia,5/16/26,TBD,4
-c72634da-be9c-4bb2-bb64-ca34403727cc,Converse,"Converse, TX, USA",29.5062414,-98.3068398,,San Antonio,5/16/26,TBD,11
-516b07ca-108d-4376-bc76-701a1d186c99,Schertz,"Schertz, TX, USA",29.5609958,-98.2673574,,San Antonio,5/16/26,TBD,11
-0ac6b9b0-3911-4d49-9d95-0dae3ad1c005,San Antonio,"San Antonio, TX, USA",29.4251905,-98.4945922,,San Antonio,5/16/26,TBD,11
-203e9a27-1dd2-46f8-a2b9-44cf992f2488,New Braunfels,"New Braunfels, TX, USA",29.702566,-98.1240635,,San Antonio,5/16/26,TBD,11
-1b25e490-0473-480a-b90e-aac75a705971,Cibolo,"Cibolo, TX, USA",29.5604156,-98.2263431,,San Antonio,5/16/26,TBD,11
-71fd39cf-0db1-451a-896e-72315ca9f08b,Seguin,"Seguin, TX 78155, USA",29.5689248,-97.9645832,,San Antonio,5/16/26,TBD,11
-4a69d67b-3fda-4f01-9fac-0c15c7fadd7d,Star,"Star, ID, USA",43.6921071,-116.4934631,,Boise,5/16/26,TBD,14
-71a9a325-520f-488e-8877-30f77790392c,Kuna,"Kuna, ID, USA",43.4918307,-116.4201223,,Boise,5/16/26,TBD,14
-e9904fcc-7869-432f-ade0-4449d510f812,Meridian,"Meridian, ID, USA",43.6121087,-116.3915131,,Boise,5/16/26,TBD,14
-9fa12907-c3df-440c-ae50-93dd0c821731,Boise,"Boise, ID, USA",43.6150186,-116.2023137,,Boise,5/16/26,TBD,14
-2d9642b7-63ec-4588-b81a-2a20c21e45ab,Nampa,"Nampa, ID, USA",43.5788175,-116.55978,,Boise,5/16/26,TBD,14
-08ce46ec-9d27-4095-ac4e-39541e13cd71,Caldwell,"Caldwell, ID, USA",43.6629384,-116.6873596,,Boise,5/16/26,TBD,14
-82ad1ea9-9234-4b39-9d2e-a831b9ef2698,Eagle,"Eagle, ID, USA",43.6954424,-116.3540138,,Boise,5/16/26,TBD,14
-28883a66-a6d3-46b4-b5a0-0f161979bdef,Mount Pleasant,"Mt Pleasant, SC, USA",32.7906369,-79.8780297,,Charleston,5/16/26,TBD,5
-a4fb1c32-cb96-4368-87e3-d0445a5cbca5,North Charleston,"North Charleston, SC, USA",32.8745076,-80.0106768,,Charleston,5/16/26,TBD,5
-3be85fe8-8f1b-49c2-bc30-0b2479421e0e,Summerville,"Summerville, SC, USA",33.0188816,-80.1758171,,Charleston,5/16/26,TBD,5
-0df18334-c738-4cb1-80b0-cfd1ce3a7ec2,Charleston,"Charleston, SC, USA",32.7833163,-79.9319664,,Charleston,5/16/26,TBD,5
-334fd5c9-21b7-4bf2-9cec-2e6a05ce509f,Castro Valley,"Castro Valley, CA, USA",37.6955029,-122.0738678,,Livermore,5/16/26,TBD,11
-8c7c4adf-4ad5-4f1f-b81f-853da9996f6c,San Leandro,"San Leandro, CA, USA",37.7257663,-122.1568554,,Livermore,5/16/26,TBD,11
-4d757dee-2232-4e81-ae8b-82b5bedda728,Livermore,"Livermore, CA, USA",37.6818688,-121.7684732,,Livermore,5/16/26,TBD,11
-02d1a718-9490-407d-acf7-bab22b36a47b,Hayward,"Hayward, CA, USA",37.6687665,-122.0809964,,Livermore,5/16/26,TBD,11
-78934c44-fdc1-4581-8329-0d8cc72e44a9,Dublin,"Dublin, CA 94568, USA",37.7049108,-121.9096158,,Livermore,5/16/26,TBD,11
-b3260920-c1a2-4249-8cb6-04968b0c8299,San Ramon,"San Ramon, CA, USA",37.7643595,-121.9539616,,Livermore,5/16/26,TBD,11
-9ea7b7e3-5de1-447f-8269-cccc208629e2,Pleasanton,"Pleasanton, CA, USA",37.6604484,-121.8757968,,Livermore,5/16/26,TBD,11
-fc07cde2-1cd1-4f61-8637-aa8773f0b4d4,Danville,"Danville, CA, USA",37.8215929,-121.9999606,,Livermore,5/16/26,TBD,11
-453b30b1-3719-4699-b8df-cbaf8a920071,Antioch,"Antioch, CA, USA",38.0049214,-121.805789,,Livermore,5/16/26,TBD,11
-18d6dbda-de83-4d7a-8670-b8b962011430,Oakland,"Oakland, CA, USA",37.8043514,-122.2711639,,Livermore,5/16/26,TBD,11
-006c30f0-7083-487f-b382-4a2733dfb657,Concord,"Concord, CA, USA",37.9817195,-122.025904,,Livermore,5/16/26,TBD,11
-5f08d7c9-af77-476d-bc1b-a661199ff168,Walnut Creek,"Walnut Creek, CA, USA",37.9100783,-122.0651819,,Livermore,5/16/26,TBD,11
-2cdb3297-d0bd-4270-a8e7-041c7fd29e7d,Pittsburg,"Pittsburg, CA, USA",38.0279762,-121.8846806,,Livermore,5/16/26,TBD,11
-24d7c859-8449-40d6-a706-89bee3eb6c52,Berkeley,"Berkeley, CA, USA",37.8715226,-122.273042,,Livermore,5/16/26,TBD,11
+d822fa93-11a8-49fc-ad1b-184adf5af6d3,Simpsonville,"Simpsonville, SC, USA",34.7370639,-82.2542834,,Greenville,5/30/26,TBD,1
+d51ef239-9167-4b77-870d-7b889cb543d7,Greenville,"Greenville, SC, USA",34.8484984,-82.4000158,,Greenville,5/30/26,TBD,1
+d2fa3188-a77f-4e13-81e9-e7d9f84f780a,Mauldin,"Mauldin, SC, USA",34.77873,-82.310119,,Greenville,5/30/26,TBD,1
+35ecf2fc-a863-4ee2-9839-bcd46e0f98cd,Greer,"Greer, SC, USA",34.9387279,-82.2270568,,Greenville,5/30/26,TBD,1
+a910dc6c-2fd0-410b-9395-2b64a1de9cef,Florence,"Florence, SC, USA",34.1973393,-79.7660945,,Florence,5/30/26,TBD,1
+65cb60be-efa2-4e1b-a684-f2417ac6b7d8,Sumter,"Sumter, SC, USA",33.9204354,-80.3414693,,Florence,5/30/26,TBD,1
+6c39a303-3636-4263-9e93-2c1ab3620dde,Temecula,"Temecula, CA, USA",33.4934243,-117.1488156,,Murietta,5/30/26,TBD,1
+1e1cb541-c56d-4b53-a1df-48583181c63f,Perris,"Perris, CA, USA",33.7865768,-117.2261337,,Murietta,5/30/26,TBD,1
+135cede2-b0f3-4602-928f-3ec5d6209458,French Valley,"French Valley, CA, USA",33.6086315,-117.1093599,,Murietta,5/30/26,TBD,1
+95b4898f-b08c-4b84-ad33-e6d353a852be,Murrieta,"Murrieta, CA, USA",33.5612623,-117.2105183,,Murietta,5/30/26,TBD,1
+c07839df-6eb6-40e8-8c3d-d6123991cd70,Menifee,"Menifee, CA, USA",33.6971468,-117.185294,,Murietta,5/30/26,TBD,1
+5e9931a8-8b6c-4c28-aa62-ef7a5a860c13,Hemet,"Hemet, CA, USA",33.7475203,-116.9719684,,Murietta,5/30/26,TBD,1
+1927fe64-20d0-4503-aada-ec07191c7f12,Northridge,"Northridge, Los Angeles, CA, USA",34.2354576,-118.5361381,,Valencia,5/30/26,TBD,3
+be77f175-6673-4225-b336-6acb0cb7d533,Santa Clarita,"Santa Clarita, CA, USA",34.3916641,-118.542586,,Valencia,5/30/26,TBD,3
+c920b9cd-e148-4506-8856-28dc58078585,Chatsworth,"Chatsworth, Los Angeles, CA, USA",34.2572378,-118.5973401,,Valencia,5/30/26,TBD,3
+8b5d75b5-66e8-406f-b6f5-3aabebea4763,Valencia,"Valencia, Santa Clarita, CA, USA",34.419837,-118.5627013,,Valencia,5/30/26,TBD,3
+934cb5d4-dd31-4cfe-b453-d8a508b6819b,San Fernando,"San Fernando, CA, USA",34.2819461,-118.4389719,,Valencia,5/30/26,TBD,3
+f0cefd3e-d61d-480a-ad95-3556ecaa5ce3,Van Nuys,"Van Nuys, Los Angeles, CA, USA",34.2012166,-118.466222,,Valencia,5/30/26,TBD,3
+c72634da-be9c-4bb2-bb64-ca34403727cc,Converse,"Converse, TX, USA",29.5062414,-98.3068398,,San Antonio,5/30/26,TBD,13
+516b07ca-108d-4376-bc76-701a1d186c99,Schertz,"Schertz, TX, USA",29.5609958,-98.2673574,,San Antonio,5/30/26,TBD,13
+0ac6b9b0-3911-4d49-9d95-0dae3ad1c005,San Antonio,"San Antonio, TX, USA",29.4251905,-98.4945922,,San Antonio,5/30/26,TBD,13
+203e9a27-1dd2-46f8-a2b9-44cf992f2488,New Braunfels,"New Braunfels, TX, USA",29.702566,-98.1240635,,San Antonio,5/30/26,TBD,13
+1b25e490-0473-480a-b90e-aac75a705971,Cibolo,"Cibolo, TX, USA",29.5604156,-98.2263431,,San Antonio,5/30/26,TBD,13
+71fd39cf-0db1-451a-896e-72315ca9f08b,Seguin,"Seguin, TX 78155, USA",29.5689248,-97.9645832,,San Antonio,5/30/26,TBD,13
+28883a66-a6d3-46b4-b5a0-0f161979bdef,Mount Pleasant,"Mt Pleasant, SC, USA",32.7906369,-79.8780297,,Charleston,5/30/26,TBD,3
+a4fb1c32-cb96-4368-87e3-d0445a5cbca5,North Charleston,"North Charleston, SC, USA",32.8745076,-80.0106768,,Charleston,5/30/26,TBD,3
+3be85fe8-8f1b-49c2-bc30-0b2479421e0e,Summerville,"Summerville, SC, USA",33.0188816,-80.1758171,,Charleston,5/30/26,TBD,3
+0df18334-c738-4cb1-80b0-cfd1ce3a7ec2,Charleston,"Charleston, SC, USA",32.7833163,-79.9319664,,Charleston,5/30/26,TBD,3
+334fd5c9-21b7-4bf2-9cec-2e6a05ce509f,Castro Valley,"Castro Valley, CA, USA",37.6955029,-122.0738678,,Livermore,5/30/26,TBD,10
+8c7c4adf-4ad5-4f1f-b81f-853da9996f6c,San Leandro,"San Leandro, CA, USA",37.7257663,-122.1568554,,Livermore,5/30/26,TBD,10
+4d757dee-2232-4e81-ae8b-82b5bedda728,Livermore,"Livermore, CA, USA",37.6818688,-121.7684732,,Livermore,5/30/26,TBD,10
+02d1a718-9490-407d-acf7-bab22b36a47b,Hayward,"Hayward, CA, USA",37.6687665,-122.0809964,,Livermore,5/30/26,TBD,10
+78934c44-fdc1-4581-8329-0d8cc72e44a9,Dublin,"Dublin, CA 94568, USA",37.7049108,-121.9096158,,Livermore,5/30/26,TBD,10
+b3260920-c1a2-4249-8cb6-04968b0c8299,San Ramon,"San Ramon, CA, USA",37.7643595,-121.9539616,,Livermore,5/30/26,TBD,10
+9ea7b7e3-5de1-447f-8269-cccc208629e2,Pleasanton,"Pleasanton, CA, USA",37.6604484,-121.8757968,,Livermore,5/30/26,TBD,10
+fc07cde2-1cd1-4f61-8637-aa8773f0b4d4,Danville,"Danville, CA, USA",37.8215929,-121.9999606,,Livermore,5/30/26,TBD,10
+453b30b1-3719-4699-b8df-cbaf8a920071,Antioch,"Antioch, CA, USA",38.0049214,-121.805789,,Livermore,5/30/26,TBD,10
+18d6dbda-de83-4d7a-8670-b8b962011430,Oakland,"Oakland, CA, USA",37.8043514,-122.2711639,,Livermore,5/30/26,TBD,10
+006c30f0-7083-487f-b382-4a2733dfb657,Concord,"Concord, CA, USA",37.9817195,-122.025904,,Livermore,5/30/26,TBD,10
+5f08d7c9-af77-476d-bc1b-a661199ff168,Walnut Creek,"Walnut Creek, CA, USA",37.9100783,-122.0651819,,Livermore,5/30/26,TBD,10
+2cdb3297-d0bd-4270-a8e7-041c7fd29e7d,Pittsburg,"Pittsburg, CA, USA",38.0279762,-121.8846806,,Livermore,5/30/26,TBD,10
+24d7c859-8449-40d6-a706-89bee3eb6c52,Berkeley,"Berkeley, CA, USA",37.8715226,-122.273042,,Livermore,5/30/26,TBD,10
