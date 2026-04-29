@@ -38,7 +38,6 @@ if not df.empty:
 
     unique_groups = sorted(map_df["Group"].dropna().unique())
     color_palette = [
-        [255, 99, 132, 180],
         [54, 162, 235, 180],
         [255, 206, 86, 180],
         [75, 192, 192, 180],
